@@ -148,16 +148,16 @@ ul {
 }
 
 .mail-icon {
-  width: 24px;
-  height: 16px;
-  margin-right: 8px;
+  width: 16px;
+  height: 12px;
+  margin-right: 10px;
   fill: currentColor;
 }
 
 .smartphone-icon {
-  width: 16px;
-  height: 20px;
-  margin-right: 8px;
+  width: 10px;
+  height: 16px;
+  margin-right: 10px;
   fill: currentColor;
 }
 
